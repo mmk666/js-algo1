@@ -1,0 +1,192 @@
+[
+  {
+      "TIME_PERIOD": 202307,
+      "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+      "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+      "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+      "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+      "LOB_VAL": "iPhone",
+      "SUB_LOB_VAL": "iPhone 12 mini",
+      "CONTRIBUTION_JST": 26
+  },
+  {
+      "TIME_PERIOD": 202307,
+      "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+      "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+      "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+      "LOB_TO_QUOTES_SUB_STATUS": "~2w",
+      "LOB_VAL": "iPhone",
+      "SUB_LOB_VAL": "iPhone 12 mini",
+      "CONTRIBUTION_JST": 8.2
+  },
+  {
+      "TIME_PERIOD": 202307,
+      "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+      "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+      "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+      "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+      "LOB_VAL": "iPhone",
+      "SUB_LOB_VAL": "iPhone 12 mini",
+      "CONTRIBUTION_JST": 35.2
+  },
+  {
+      "TIME_PERIOD": 202308,
+      "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+      "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+      "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+      "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+      "LOB_VAL": "iPhone",
+      "SUB_LOB_VAL": "iPhone 12 mini",
+      "CONTRIBUTION_JST": 39.4
+  },
+  {
+      "TIME_PERIOD": 202308,
+      "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+      "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+      "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+      "LOB_TO_QUOTES_SUB_STATUS": "~2w",
+      "LOB_VAL": "iPhone",
+      "SUB_LOB_VAL": "iPhone 12 mini",
+      "CONTRIBUTION_JST": 6.4
+  },
+  {
+      "TIME_PERIOD": 202308,
+      "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+      "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+      "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+      "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+      "LOB_VAL": "iPhone",
+      "SUB_LOB_VAL": "iPhone 12 mini",
+      "CONTRIBUTION_JST": 54.4
+  },
+  {
+      "TIME_PERIOD": 202309,
+      "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+      "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+      "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+      "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+      "LOB_VAL": "iPhone",
+      "SUB_LOB_VAL": "iPhone 12 mini",
+      "CONTRIBUTION_JST": 27
+  },
+  {
+      "TIME_PERIOD": 202309,
+      "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+      "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+      "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+      "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+      "LOB_VAL": "iPhone",
+      "SUB_LOB_VAL": "iPhone 12 mini",
+      "CONTRIBUTION_JST": 37.4
+  },
+  {
+      "TIME_PERIOD": 202310,
+      "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+      "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+      "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+      "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+      "LOB_VAL": "iPhone",
+      "SUB_LOB_VAL": "iPhone 12 mini",
+      "CONTRIBUTION_JST": 46.8
+  },
+  {
+      "TIME_PERIOD": 202310,
+      "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+      "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+      "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+      "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+      "LOB_VAL": "iPhone",
+      "SUB_LOB_VAL": "iPhone 12 mini",
+      "CONTRIBUTION_JST": 6.8
+  },
+  {
+      "TIME_PERIOD": 202311,
+      "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+      "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+      "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+      "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+      "LOB_VAL": "iPhone",
+      "SUB_LOB_VAL": "iPhone 12 mini",
+      "CONTRIBUTION_JST": 26.8
+  },
+  {
+      "TIME_PERIOD": 202311,
+      "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+      "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+      "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+      "LOB_TO_QUOTES_SUB_STATUS": "~2w",
+      "LOB_VAL": "iPhone",
+      "SUB_LOB_VAL": "iPhone 12 mini",
+      "CONTRIBUTION_JST": 11
+  },
+  {
+      "TIME_PERIOD": 202311,
+      "QUOTES_TO_GOAL_STATUS": "No Quotes",
+      "QUOTES_TO_GOAL_SUB_STATUS": "OOS",
+      "LOB_TO_QUOTES_STATUS": "No Quotes",
+      "LOB_TO_QUOTES_SUB_STATUS": "OOS",
+      "LOB_VAL": "iPhone",
+      "SUB_LOB_VAL": "iPhone 12 mini",
+      "CONTRIBUTION_JST": 0.2
+  },
+  {
+      "TIME_PERIOD": 202312,
+      "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+      "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+      "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+      "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+      "LOB_VAL": "iPhone",
+      "SUB_LOB_VAL": "iPhone 12 mini",
+      "CONTRIBUTION_JST": 0.4
+  },
+  {
+      "TIME_PERIOD": 202312,
+      "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+      "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+      "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+      "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+      "LOB_VAL": "iPhone",
+      "SUB_LOB_VAL": "iPhone 12 mini",
+      "CONTRIBUTION_JST": 1.6
+  },
+  {
+      "TIME_PERIOD": 202313,
+      "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+      "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+      "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+      "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+      "LOB_VAL": "iPhone",
+      "SUB_LOB_VAL": "iPhone 12 mini",
+      "CONTRIBUTION_JST": 1
+  },
+  {
+      "TIME_PERIOD": 202319,
+      "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+      "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+      "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+      "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+      "LOB_VAL": "iPhone",
+      "SUB_LOB_VAL": "iPhone 12 mini",
+      "CONTRIBUTION_JST": 0
+  },
+  {
+      "TIME_PERIOD": 202320,
+      "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+      "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+      "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+      "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+      "LOB_VAL": "iPhone",
+      "SUB_LOB_VAL": "iPhone 12 mini",
+      "CONTRIBUTION_JST": 0
+  },
+  {
+      "TIME_PERIOD": 202320,
+      "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+      "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+      "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+      "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+      "LOB_VAL": "iPhone",
+      "SUB_LOB_VAL": "iPhone 12 mini",
+      "CONTRIBUTION_JST": 0
+  }
+]

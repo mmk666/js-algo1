@@ -1,0 +1,22 @@
+[
+  {
+    "FISCAL_WEEK_YEAR": 202320,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "PRODUCT": "iPhone 12 mini",
+    "C_CONTRIBUTION_JST": 0,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_WEEK_YEAR": 202320,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "PRODUCT": "iPhone 12 mini",
+    "C_CONTRIBUTION_JST": 0,
+    "P_CONTRIBUTION_JST": 0
+  }
+]

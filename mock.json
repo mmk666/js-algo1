@@ -1,0 +1,2412 @@
+[
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad (9th Gen)",
+    "CONTRIBUTION_JST": 3020
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Air 5",
+    "CONTRIBUTION_JST": 489.4
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Mini 6",
+    "CONTRIBUTION_JST": 162.4
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Pro 13in (5th Gen)",
+    "CONTRIBUTION_JST": 67.2
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 11",
+    "CONTRIBUTION_JST": 18953.8
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 12",
+    "CONTRIBUTION_JST": 1246.8
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 13",
+    "CONTRIBUTION_JST": 6239.6
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 13 mini",
+    "CONTRIBUTION_JST": 22.4
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14",
+    "CONTRIBUTION_JST": 817.4
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Plus",
+    "CONTRIBUTION_JST": 578.4
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Pro",
+    "CONTRIBUTION_JST": 30.4
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Pro Max",
+    "CONTRIBUTION_JST": 181.8
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone SE (3rd Gen)",
+    "CONTRIBUTION_JST": 82.8
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "iMac 24",
+    "CONTRIBUTION_JST": 51.4
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "Mac Mini",
+    "CONTRIBUTION_JST": 1.8
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Air 13",
+    "CONTRIBUTION_JST": 103.2
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 14",
+    "CONTRIBUTION_JST": 25.2
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods 2nd Gen",
+    "CONTRIBUTION_JST": 1008
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods Pro 2nd Gen",
+    "CONTRIBUTION_JST": 15646.4
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 7 Cell",
+    "CONTRIBUTION_JST": 50.4
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 7 GPS",
+    "CONTRIBUTION_JST": 747.8
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 8 Cell",
+    "CONTRIBUTION_JST": 176.8
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 8 GPS",
+    "CONTRIBUTION_JST": 719
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad (9th Gen)",
+    "CONTRIBUTION_JST": 1.2
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Air 5",
+    "CONTRIBUTION_JST": 81.8
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Mini 6",
+    "CONTRIBUTION_JST": 11.2
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 11",
+    "CONTRIBUTION_JST": 5806.6
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 12",
+    "CONTRIBUTION_JST": 612.4
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 13",
+    "CONTRIBUTION_JST": 2314.4
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 13 mini",
+    "CONTRIBUTION_JST": 95.2
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14",
+    "CONTRIBUTION_JST": 2119.8
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Plus",
+    "CONTRIBUTION_JST": 631.2
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Pro",
+    "CONTRIBUTION_JST": 3539.6
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Pro Max",
+    "CONTRIBUTION_JST": 3220.2
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone SE (3rd Gen)",
+    "CONTRIBUTION_JST": 275.6
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "iMac 24",
+    "CONTRIBUTION_JST": 29.8
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "Mac Mini",
+    "CONTRIBUTION_JST": 6.6
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Air 13",
+    "CONTRIBUTION_JST": 1218.4
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 13 Retina",
+    "CONTRIBUTION_JST": 366.8
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 14",
+    "CONTRIBUTION_JST": 0
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 15/16 Retina",
+    "CONTRIBUTION_JST": -2.8
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods 3rd Gen",
+    "CONTRIBUTION_JST": 3606.4
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods Max",
+    "CONTRIBUTION_JST": 140
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 8 Cell",
+    "CONTRIBUTION_JST": 2.4
+  },
+  {
+    "TIME_PERIOD": 202315,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 8 GPS",
+    "CONTRIBUTION_JST": 2677.4
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 13 mini",
+    "CONTRIBUTION_JST": 1.6
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "iMac 24",
+    "CONTRIBUTION_JST": 4
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 13 Retina",
+    "CONTRIBUTION_JST": 6.8
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad (9th Gen)",
+    "CONTRIBUTION_JST": 3012.8
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Air 5",
+    "CONTRIBUTION_JST": 542.6
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Mini 6",
+    "CONTRIBUTION_JST": 198.8
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Pro 13in (5th Gen)",
+    "CONTRIBUTION_JST": 44.8
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 11",
+    "CONTRIBUTION_JST": 20850
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 12",
+    "CONTRIBUTION_JST": 1075.8
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 13",
+    "CONTRIBUTION_JST": 6719.6
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 13 mini",
+    "CONTRIBUTION_JST": 36.6
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14",
+    "CONTRIBUTION_JST": 1464.6
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Plus",
+    "CONTRIBUTION_JST": 318.6
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Pro",
+    "CONTRIBUTION_JST": 1253.8
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Pro Max",
+    "CONTRIBUTION_JST": 578
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone SE (3rd Gen)",
+    "CONTRIBUTION_JST": 33.6
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "iMac 24",
+    "CONTRIBUTION_JST": 59.8
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "Mac Mini",
+    "CONTRIBUTION_JST": 3.6
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Air 13",
+    "CONTRIBUTION_JST": 778
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 13 Retina",
+    "CONTRIBUTION_JST": 227.2
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 14",
+    "CONTRIBUTION_JST": 14
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods 2nd Gen",
+    "CONTRIBUTION_JST": 884.8
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods 3rd Gen",
+    "CONTRIBUTION_JST": 1209.6
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods Pro 2nd Gen",
+    "CONTRIBUTION_JST": 15940.4
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 7 Cell",
+    "CONTRIBUTION_JST": 26.8
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 7 GPS",
+    "CONTRIBUTION_JST": 438.8
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 8 Cell",
+    "CONTRIBUTION_JST": 221.2
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 8 GPS",
+    "CONTRIBUTION_JST": 1996
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad (9th Gen)",
+    "CONTRIBUTION_JST": 0
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Air 5",
+    "CONTRIBUTION_JST": 84.6
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Mini 6",
+    "CONTRIBUTION_JST": 16.8
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 11",
+    "CONTRIBUTION_JST": 7446.8
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 12",
+    "CONTRIBUTION_JST": 763.8
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 13",
+    "CONTRIBUTION_JST": 2705.2
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 13 mini",
+    "CONTRIBUTION_JST": 90.6
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14",
+    "CONTRIBUTION_JST": 1525.8
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Plus",
+    "CONTRIBUTION_JST": 1050.6
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Pro",
+    "CONTRIBUTION_JST": 2671.8
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Pro Max",
+    "CONTRIBUTION_JST": 3330.8
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone SE (3rd Gen)",
+    "CONTRIBUTION_JST": 425.6
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "iMac 24",
+    "CONTRIBUTION_JST": 23
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "Mac Mini",
+    "CONTRIBUTION_JST": 2
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Air 13",
+    "CONTRIBUTION_JST": 734
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 13 Retina",
+    "CONTRIBUTION_JST": 130
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 14",
+    "CONTRIBUTION_JST": 0
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 15/16 Retina",
+    "CONTRIBUTION_JST": -2.8
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods 3rd Gen",
+    "CONTRIBUTION_JST": 2884
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods Max",
+    "CONTRIBUTION_JST": 182
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 8 Cell",
+    "CONTRIBUTION_JST": 0
+  },
+  {
+    "TIME_PERIOD": 202316,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 8 GPS",
+    "CONTRIBUTION_JST": 1708.4
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 13 Retina",
+    "CONTRIBUTION_JST": 2.8
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 7 Cell",
+    "CONTRIBUTION_JST": 0
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad (9th Gen)",
+    "CONTRIBUTION_JST": 2615.2
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Air 5",
+    "CONTRIBUTION_JST": 641.2
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Mini 6",
+    "CONTRIBUTION_JST": 215.6
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Pro 13in (5th Gen)",
+    "CONTRIBUTION_JST": 0
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 11",
+    "CONTRIBUTION_JST": 30070.4
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 12",
+    "CONTRIBUTION_JST": 1140
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 13",
+    "CONTRIBUTION_JST": 6836.6
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 13 mini",
+    "CONTRIBUTION_JST": 52.2
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14",
+    "CONTRIBUTION_JST": 1847.6
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Plus",
+    "CONTRIBUTION_JST": 284
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Pro",
+    "CONTRIBUTION_JST": 2032.8
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Pro Max",
+    "CONTRIBUTION_JST": 613.2
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone SE (3rd Gen)",
+    "CONTRIBUTION_JST": 30.8
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "iMac 24",
+    "CONTRIBUTION_JST": 36.4
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "Mac Mini",
+    "CONTRIBUTION_JST": 0
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Air 13",
+    "CONTRIBUTION_JST": 1346.6
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 13 Retina",
+    "CONTRIBUTION_JST": 308
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 14",
+    "CONTRIBUTION_JST": 0
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods 2nd Gen",
+    "CONTRIBUTION_JST": 1086.4
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods 3rd Gen",
+    "CONTRIBUTION_JST": 1820
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods Pro 2nd Gen",
+    "CONTRIBUTION_JST": 12157.6
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 7 Cell",
+    "CONTRIBUTION_JST": 1.2
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 7 GPS",
+    "CONTRIBUTION_JST": 92
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 8 Cell",
+    "CONTRIBUTION_JST": 239.2
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 8 GPS",
+    "CONTRIBUTION_JST": 2928.4
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad (9th Gen)",
+    "CONTRIBUTION_JST": 0
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Air 5",
+    "CONTRIBUTION_JST": 78.4
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Mini 6",
+    "CONTRIBUTION_JST": 16.8
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 11",
+    "CONTRIBUTION_JST": 693.2
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 12",
+    "CONTRIBUTION_JST": 568
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 13",
+    "CONTRIBUTION_JST": 3316.2
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 13 mini",
+    "CONTRIBUTION_JST": 54.2
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14",
+    "CONTRIBUTION_JST": 1252
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Plus",
+    "CONTRIBUTION_JST": 1342.8
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Pro",
+    "CONTRIBUTION_JST": 1640.8
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Pro Max",
+    "CONTRIBUTION_JST": 3502.8
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone SE (3rd Gen)",
+    "CONTRIBUTION_JST": 520.8
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "iMac 24",
+    "CONTRIBUTION_JST": 16.8
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "Mac Mini",
+    "CONTRIBUTION_JST": 15.4
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Air 13",
+    "CONTRIBUTION_JST": 409
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 13 Retina",
+    "CONTRIBUTION_JST": 8.4
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 14",
+    "CONTRIBUTION_JST": 12.6
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 15/16 Retina",
+    "CONTRIBUTION_JST": 8.4
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods 3rd Gen",
+    "CONTRIBUTION_JST": 2424.8
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods Max",
+    "CONTRIBUTION_JST": 210
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 8 Cell",
+    "CONTRIBUTION_JST": 24
+  },
+  {
+    "TIME_PERIOD": 202317,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 8 GPS",
+    "CONTRIBUTION_JST": 479.2
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14",
+    "CONTRIBUTION_JST": 99.8
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 7 Cell",
+    "CONTRIBUTION_JST": 0
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 8 Cell",
+    "CONTRIBUTION_JST": 28
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad (9th Gen)",
+    "CONTRIBUTION_JST": 2259.6
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Air 5",
+    "CONTRIBUTION_JST": 646.8
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Mini 6",
+    "CONTRIBUTION_JST": 190.4
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Pro 13in (5th Gen)",
+    "CONTRIBUTION_JST": 0
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 11",
+    "CONTRIBUTION_JST": 30758
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 12",
+    "CONTRIBUTION_JST": 691.4
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 13",
+    "CONTRIBUTION_JST": 6581.2
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 13 mini",
+    "CONTRIBUTION_JST": 83
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14",
+    "CONTRIBUTION_JST": 2560.4
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Plus",
+    "CONTRIBUTION_JST": 492.8
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Pro",
+    "CONTRIBUTION_JST": 2259
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Pro Max",
+    "CONTRIBUTION_JST": 1675
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone SE (3rd Gen)",
+    "CONTRIBUTION_JST": 16.8
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "iMac 24",
+    "CONTRIBUTION_JST": 40.2
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "Mac Mini",
+    "CONTRIBUTION_JST": 22
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Air 13",
+    "CONTRIBUTION_JST": 1319.4
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 13 Retina",
+    "CONTRIBUTION_JST": 119
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 14",
+    "CONTRIBUTION_JST": 8.8
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 15/16 Retina",
+    "CONTRIBUTION_JST": 8.8
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods 2nd Gen",
+    "CONTRIBUTION_JST": 1089.2
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods 3rd Gen",
+    "CONTRIBUTION_JST": 1289.6
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods Max",
+    "CONTRIBUTION_JST": 68
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods Pro 2nd Gen",
+    "CONTRIBUTION_JST": 7705.6
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 7 Cell",
+    "CONTRIBUTION_JST": 0
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 7 GPS",
+    "CONTRIBUTION_JST": 58
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 8 Cell",
+    "CONTRIBUTION_JST": 193.2
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 8 GPS",
+    "CONTRIBUTION_JST": 2055.2
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad (9th Gen)",
+    "CONTRIBUTION_JST": 2.8
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Air 5",
+    "CONTRIBUTION_JST": 75.6
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Mini 6",
+    "CONTRIBUTION_JST": 19.6
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 12",
+    "CONTRIBUTION_JST": 941
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 13",
+    "CONTRIBUTION_JST": 3588.4
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 13 mini",
+    "CONTRIBUTION_JST": 40.2
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14",
+    "CONTRIBUTION_JST": 755.8
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Plus",
+    "CONTRIBUTION_JST": 1374.8
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Pro",
+    "CONTRIBUTION_JST": 1414.6
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Pro Max",
+    "CONTRIBUTION_JST": 2460.6
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone SE (3rd Gen)",
+    "CONTRIBUTION_JST": 523.6
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "iMac 24",
+    "CONTRIBUTION_JST": 13
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "Mac Mini",
+    "CONTRIBUTION_JST": 6
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Air 13",
+    "CONTRIBUTION_JST": 301.8
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 13 Retina",
+    "CONTRIBUTION_JST": 152.6
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 14",
+    "CONTRIBUTION_JST": 2.4
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 15/16 Retina",
+    "CONTRIBUTION_JST": 2.4
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods 3rd Gen",
+    "CONTRIBUTION_JST": 2941.2
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods Max",
+    "CONTRIBUTION_JST": 170
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 8 Cell",
+    "CONTRIBUTION_JST": 33.6
+  },
+  {
+    "TIME_PERIOD": 202318,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 8 GPS",
+    "CONTRIBUTION_JST": 812
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 8 Cell",
+    "CONTRIBUTION_JST": 134.4
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad (9th Gen)",
+    "CONTRIBUTION_JST": 1228.8
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Air 5",
+    "CONTRIBUTION_JST": 432
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Mini 6",
+    "CONTRIBUTION_JST": 96
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Pro 13in (5th Gen)",
+    "CONTRIBUTION_JST": 0
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 11",
+    "CONTRIBUTION_JST": 18054.4
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 12",
+    "CONTRIBUTION_JST": 252.8
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 13",
+    "CONTRIBUTION_JST": 6288
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 13 mini",
+    "CONTRIBUTION_JST": 78.4
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14",
+    "CONTRIBUTION_JST": 2112
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Plus",
+    "CONTRIBUTION_JST": 499.2
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Pro",
+    "CONTRIBUTION_JST": 1064
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Pro Max",
+    "CONTRIBUTION_JST": 587.2
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "iMac 24",
+    "CONTRIBUTION_JST": 22.4
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "Mac Mini",
+    "CONTRIBUTION_JST": 32
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Air 13",
+    "CONTRIBUTION_JST": 388.8
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 13 Retina",
+    "CONTRIBUTION_JST": 20.8
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 14",
+    "CONTRIBUTION_JST": 8
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 15/16 Retina",
+    "CONTRIBUTION_JST": 8
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods 2nd Gen",
+    "CONTRIBUTION_JST": 635.2
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods 3rd Gen",
+    "CONTRIBUTION_JST": 1376
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods Max",
+    "CONTRIBUTION_JST": 48
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods Pro 2nd Gen",
+    "CONTRIBUTION_JST": 4531.2
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 7 Cell",
+    "CONTRIBUTION_JST": 0
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 7 GPS",
+    "CONTRIBUTION_JST": 28.8
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 8 Cell",
+    "CONTRIBUTION_JST": 299.2
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 8 GPS",
+    "CONTRIBUTION_JST": 1400
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad (9th Gen)",
+    "CONTRIBUTION_JST": 0
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Air 5",
+    "CONTRIBUTION_JST": 0
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPad",
+    "SUB_LOB_VAL": "iPad Mini 6",
+    "CONTRIBUTION_JST": 0
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 12",
+    "CONTRIBUTION_JST": 620.8
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 13",
+    "CONTRIBUTION_JST": 307.2
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 13 mini",
+    "CONTRIBUTION_JST": 48
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14",
+    "CONTRIBUTION_JST": 33.6
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Plus",
+    "CONTRIBUTION_JST": 790.4
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Pro",
+    "CONTRIBUTION_JST": 1067.2
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone 14 Pro Max",
+    "CONTRIBUTION_JST": 1780.8
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "iPhone",
+    "SUB_LOB_VAL": "iPhone SE (3rd Gen)",
+    "CONTRIBUTION_JST": 252.8
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "iMac 24",
+    "CONTRIBUTION_JST": 4.8
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "Mac Mini",
+    "CONTRIBUTION_JST": 0
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Air 13",
+    "CONTRIBUTION_JST": 80
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 13 Retina",
+    "CONTRIBUTION_JST": 121.6
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 14",
+    "CONTRIBUTION_JST": 0
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Mac",
+    "SUB_LOB_VAL": "MacBook Pro 15/16 Retina",
+    "CONTRIBUTION_JST": 0
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Other Wearables",
+    "SUB_LOB_VAL": "AirPods 3rd Gen",
+    "CONTRIBUTION_JST": 0
+  },
+  {
+    "TIME_PERIOD": 202319,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "LOB_VAL": "Watch",
+    "SUB_LOB_VAL": "Series 8 GPS",
+    "CONTRIBUTION_JST": 622.4
+  }
+]

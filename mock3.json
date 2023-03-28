@@ -1,0 +1,1012 @@
+[
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~2w",
+    "PRODUCT": "iPhone 14",
+    "C_CONTRIBUTION_JST": 75027.6,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "PRODUCT": "iPhone 11",
+    "C_CONTRIBUTION_JST": 57022,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "PRODUCT": "iPhone 14 Pro Max",
+    "C_CONTRIBUTION_JST": 77493.6,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "PRODUCT": "iPhone 14 Plus",
+    "C_CONTRIBUTION_JST": 21886,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "PRODUCT": "iPhone SE (3rd Gen)",
+    "C_CONTRIBUTION_JST": 9837.2,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~2w",
+    "PRODUCT": "iPhone 13 Pro Max",
+    "C_CONTRIBUTION_JST": 208.4,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~2w",
+    "PRODUCT": "iPhone 12",
+    "C_CONTRIBUTION_JST": 20694.4,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "QNP",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "QNP",
+    "PRODUCT": "iPhone 11",
+    "C_CONTRIBUTION_JST": 5148.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "OOS",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "OOS",
+    "PRODUCT": "iPhone 14 Pro Max",
+    "C_CONTRIBUTION_JST": 583106.4,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "PRODUCT": "iPhone 13 Pro Max",
+    "C_CONTRIBUTION_JST": 60,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~4w",
+    "PRODUCT": "iPhone 14 Pro",
+    "C_CONTRIBUTION_JST": 41574.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "OOS",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "OOS",
+    "PRODUCT": "iPhone 11",
+    "C_CONTRIBUTION_JST": 153024.4,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~2w",
+    "PRODUCT": "iPhone 13 Pro",
+    "C_CONTRIBUTION_JST": 306.4,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "PRODUCT": "iPhone 14 Plus",
+    "C_CONTRIBUTION_JST": 29830.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~4w",
+    "PRODUCT": "iPhone SE (3rd Gen)",
+    "C_CONTRIBUTION_JST": 12.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "PRODUCT": "iPhone SE (3rd Gen)",
+    "C_CONTRIBUTION_JST": 26477.2,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "PRODUCT": "iPhone 11",
+    "C_CONTRIBUTION_JST": 1077920.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "PRODUCT": "iPhone 13 mini",
+    "C_CONTRIBUTION_JST": 54795.2,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "PRODUCT": "iPhone 14 Pro Max",
+    "C_CONTRIBUTION_JST": 14042,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "PRODUCT": "iPhone 13 Pro Max",
+    "C_CONTRIBUTION_JST": 2052.4,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "OOS",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "OOS",
+    "PRODUCT": "iPhone 13",
+    "C_CONTRIBUTION_JST": 100074.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "PRODUCT": "iPhone 12 Pro Max",
+    "C_CONTRIBUTION_JST": 219.2,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "PRODUCT": "iPhone 13 mini",
+    "C_CONTRIBUTION_JST": 443037.6,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "PRODUCT": "iPhone 12 mini",
+    "C_CONTRIBUTION_JST": 60976.4,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~2w",
+    "PRODUCT": "iPhone 13 mini",
+    "C_CONTRIBUTION_JST": 1331.6,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "PRODUCT": "iPhone SE (3rd Gen)",
+    "C_CONTRIBUTION_JST": 160628.4,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~4w",
+    "PRODUCT": "iPhone 14",
+    "C_CONTRIBUTION_JST": 5072.4,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "OOS",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "OOS",
+    "PRODUCT": "iPhone 14 Plus",
+    "C_CONTRIBUTION_JST": 29548,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "PRODUCT": "iPhone 13 Pro",
+    "C_CONTRIBUTION_JST": 1754,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "QNP",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "QNP",
+    "PRODUCT": "iPhone 14 Pro Max",
+    "C_CONTRIBUTION_JST": 124,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "QNP",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "QNP",
+    "PRODUCT": "iPhone 12 Pro Max",
+    "C_CONTRIBUTION_JST": 64.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~4w",
+    "PRODUCT": "iPhone 14 Plus",
+    "C_CONTRIBUTION_JST": 81.6,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~3w",
+    "PRODUCT": "iPhone 11",
+    "C_CONTRIBUTION_JST": 0,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~3w",
+    "PRODUCT": "iPhone 14 Plus",
+    "C_CONTRIBUTION_JST": 5321.2,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "QNP",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "QNP",
+    "PRODUCT": "iPhone 13 Pro",
+    "C_CONTRIBUTION_JST": 17.6,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~2w",
+    "PRODUCT": "iPhone 13",
+    "C_CONTRIBUTION_JST": 56959.6,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~3w",
+    "PRODUCT": "iPhone 13",
+    "C_CONTRIBUTION_JST": 21226,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "PRODUCT": "iPhone 12 Pro Max",
+    "C_CONTRIBUTION_JST": 102.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "PRODUCT": "iPhone 13",
+    "C_CONTRIBUTION_JST": 1000402.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "OOS",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "OOS",
+    "PRODUCT": "iPhone 13 Pro",
+    "C_CONTRIBUTION_JST": 11294,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "OOS",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "OOS",
+    "PRODUCT": "iPhone 14",
+    "C_CONTRIBUTION_JST": 169565.6,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "PRODUCT": "iPhone 14 Pro Max",
+    "C_CONTRIBUTION_JST": 147886.4,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~3w",
+    "PRODUCT": "iPhone 13 Pro",
+    "C_CONTRIBUTION_JST": 8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~4w",
+    "PRODUCT": "iPhone 13 mini",
+    "C_CONTRIBUTION_JST": 463.6,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "QNP",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "QNP",
+    "PRODUCT": "iPhone 13",
+    "C_CONTRIBUTION_JST": 6502.4,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "OOS",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "OOS",
+    "PRODUCT": "iPhone SE (3rd Gen)",
+    "C_CONTRIBUTION_JST": 66454.4,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~3w",
+    "PRODUCT": "iPhone SE (3rd Gen)",
+    "C_CONTRIBUTION_JST": 194.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "OOS",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "OOS",
+    "PRODUCT": "iPhone 14 Pro",
+    "C_CONTRIBUTION_JST": 1694856.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "QNP",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "QNP",
+    "PRODUCT": "iPhone 13 mini",
+    "C_CONTRIBUTION_JST": 488.4,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "PRODUCT": "iPhone 14",
+    "C_CONTRIBUTION_JST": 88257.2,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "",
+    "QUOTES_TO_GOAL_SUB_STATUS": "",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "DNA",
+    "PRODUCT": "iPhone 14 Pro",
+    "C_CONTRIBUTION_JST": 25541.6,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "PRODUCT": "iPhone 11",
+    "C_CONTRIBUTION_JST": 8335.2,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~2w",
+    "PRODUCT": "iPhone 14 Pro Max",
+    "C_CONTRIBUTION_JST": 7482.4,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "PRODUCT": "iPhone 13 mini",
+    "C_CONTRIBUTION_JST": 10880,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "QNP",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "QNP",
+    "PRODUCT": "iPhone 14 Plus",
+    "C_CONTRIBUTION_JST": 127.2,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~4w",
+    "PRODUCT": "iPhone 12",
+    "C_CONTRIBUTION_JST": 2286.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~2w",
+    "PRODUCT": "iPhone 14 Plus",
+    "C_CONTRIBUTION_JST": 29896.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~2w",
+    "PRODUCT": "iPhone 12 Pro Max",
+    "C_CONTRIBUTION_JST": 12,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "OOS",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "OOS",
+    "PRODUCT": "iPhone 13 mini",
+    "C_CONTRIBUTION_JST": 128689.2,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "QNP",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "QNP",
+    "PRODUCT": "iPhone SE (3rd Gen)",
+    "C_CONTRIBUTION_JST": 1452.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~3w",
+    "PRODUCT": "iPhone 12",
+    "C_CONTRIBUTION_JST": 7679.2,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "PRODUCT": "iPhone 13 Pro Max",
+    "C_CONTRIBUTION_JST": 321.6,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~2w",
+    "PRODUCT": "iPhone 12 mini",
+    "C_CONTRIBUTION_JST": 104.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "PRODUCT": "iPhone 13",
+    "C_CONTRIBUTION_JST": 151871.2,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "PRODUCT": "iPhone 12",
+    "C_CONTRIBUTION_JST": 122500.4,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "",
+    "QUOTES_TO_GOAL_SUB_STATUS": "",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "DNA",
+    "PRODUCT": "iPhone 14",
+    "C_CONTRIBUTION_JST": 1398.4,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "",
+    "QUOTES_TO_GOAL_SUB_STATUS": "",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "DNA",
+    "PRODUCT": "iPhone 13",
+    "C_CONTRIBUTION_JST": 977.2,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~3w",
+    "PRODUCT": "iPhone 14",
+    "C_CONTRIBUTION_JST": 16614.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~4w",
+    "PRODUCT": "iPhone 14 Pro Max",
+    "C_CONTRIBUTION_JST": 44589.2,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "OOS",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "OOS",
+    "PRODUCT": "iPhone 12 mini",
+    "C_CONTRIBUTION_JST": 632,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "OOS",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "OOS",
+    "PRODUCT": "iPhone 12",
+    "C_CONTRIBUTION_JST": 24754.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~4w",
+    "PRODUCT": "iPhone 13",
+    "C_CONTRIBUTION_JST": 339.6,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "PRODUCT": "iPhone 12",
+    "C_CONTRIBUTION_JST": 664454,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~2w",
+    "PRODUCT": "iPhone SE (3rd Gen)",
+    "C_CONTRIBUTION_JST": 1468.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "PRODUCT": "iPhone 14 Pro",
+    "C_CONTRIBUTION_JST": 63870,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~3w",
+    "PRODUCT": "iPhone 14 Pro Max",
+    "C_CONTRIBUTION_JST": 37736.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "PRODUCT": "iPhone 14",
+    "C_CONTRIBUTION_JST": 1290784.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "PRODUCT": "iPhone 14 Plus",
+    "C_CONTRIBUTION_JST": 365110,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~2w",
+    "PRODUCT": "iPhone 14 Pro",
+    "C_CONTRIBUTION_JST": 9468,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "OOS",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "OOS",
+    "PRODUCT": "iPhone 12 Pro Max",
+    "C_CONTRIBUTION_JST": 150,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "",
+    "QUOTES_TO_GOAL_SUB_STATUS": "",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "DNA",
+    "PRODUCT": "iPhone SE (3rd Gen)",
+    "C_CONTRIBUTION_JST": 184.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "",
+    "QUOTES_TO_GOAL_SUB_STATUS": "",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "DNA",
+    "PRODUCT": "iPhone 13 mini",
+    "C_CONTRIBUTION_JST": 103.6,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "PRODUCT": "iPhone 13 Pro",
+    "C_CONTRIBUTION_JST": 20.4,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "PRODUCT": "iPhone 13 Pro",
+    "C_CONTRIBUTION_JST": 3315.6,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~3w",
+    "PRODUCT": "iPhone 14 Pro",
+    "C_CONTRIBUTION_JST": 21048,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "QNP",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "QNP",
+    "PRODUCT": "iPhone 14 Pro",
+    "C_CONTRIBUTION_JST": 50.4,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "",
+    "QUOTES_TO_GOAL_SUB_STATUS": "",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "DNA",
+    "PRODUCT": "iPhone 14 Pro Max",
+    "C_CONTRIBUTION_JST": 46393.6,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "QNP",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "QNP",
+    "PRODUCT": "iPhone 14",
+    "C_CONTRIBUTION_JST": 4763.6,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "QNP",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "QNP",
+    "PRODUCT": "iPhone 12",
+    "C_CONTRIBUTION_JST": 6427.6,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "PRODUCT": "iPhone 13",
+    "C_CONTRIBUTION_JST": 101266.4,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~2w",
+    "PRODUCT": "iPhone 11",
+    "C_CONTRIBUTION_JST": 722,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "QNP",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "QNP",
+    "PRODUCT": "iPhone 13 Pro Max",
+    "C_CONTRIBUTION_JST": 4.8,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~3w",
+    "PRODUCT": "iPhone 13 mini",
+    "C_CONTRIBUTION_JST": 1745.6,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "PRODUCT": "iPhone 14",
+    "C_CONTRIBUTION_JST": 128464.4,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "",
+    "QUOTES_TO_GOAL_SUB_STATUS": "",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "DNA",
+    "PRODUCT": "iPhone 12",
+    "C_CONTRIBUTION_JST": 1222.4,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "NL",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "NL",
+    "PRODUCT": "iPhone 12",
+    "C_CONTRIBUTION_JST": 28687.6,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "PRODUCT": "iPhone 14 Pro",
+    "C_CONTRIBUTION_JST": 22074,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~4w",
+    "PRODUCT": "iPhone 11",
+    "C_CONTRIBUTION_JST": 0,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "> Goal",
+    "LOB_TO_QUOTES_STATUS": "Extended Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "~1w",
+    "PRODUCT": "iPhone 12 mini",
+    "C_CONTRIBUTION_JST": 1100,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "No Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "OOS",
+    "LOB_TO_QUOTES_STATUS": "No Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "OOS",
+    "PRODUCT": "iPhone 13 Pro Max",
+    "C_CONTRIBUTION_JST": 4694,
+    "P_CONTRIBUTION_JST": ""
+  },
+  {
+    "FISCAL_QTR_YEAR": 202301,
+    "QUOTES_TO_GOAL_STATUS": "Acceptable Quotes",
+    "QUOTES_TO_GOAL_SUB_STATUS": "Goal",
+    "LOB_TO_QUOTES_STATUS": "Acceptable Quotes",
+    "LOB_TO_QUOTES_SUB_STATUS": "<3 Days",
+    "PRODUCT": "iPhone 14 Pro",
+    "C_CONTRIBUTION_JST": 403393.2,
+    "P_CONTRIBUTION_JST": ""
+  }
+]
